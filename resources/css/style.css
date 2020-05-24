@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: "Verdana", sans-serif;
+	color: white;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+
+	background-color: black;
+
+}
+
+h1 {
+	font-size: 50px; 
+	font-weight: normal;
+
+	padding: 30px;
+}
+
+header span {
+	display: flex;
+	justify-content: center;
+}
+
+header a {
+	color: aquamarine;
+}
